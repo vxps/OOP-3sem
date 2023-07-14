@@ -1,5 +1,5 @@
 # OOP-3sem
-# programming-1sem
+
 - **Лабораторная 0. Isu**
     
     ### **Цель.**
